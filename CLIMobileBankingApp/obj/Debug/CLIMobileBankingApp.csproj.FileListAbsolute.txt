@@ -1,0 +1,7 @@
+C:\Users\Maristela\source\repos\CLIMobileBankingApp\obj\Debug\CLIMobileBankingApp.csproj.AssemblyReference.cache
+C:\Users\Maristela\source\repos\CLIMobileBankingApp\obj\Debug\CLIMobileBankingApp.csproj.CoreCompileInputs.cache
+C:\Users\Maristela\source\repos\CLIMobileBankingApp\bin\Debug\CLIMobileBankingApp.exe.config
+C:\Users\Maristela\source\repos\CLIMobileBankingApp\bin\Debug\CLIMobileBankingApp.exe
+C:\Users\Maristela\source\repos\CLIMobileBankingApp\bin\Debug\CLIMobileBankingApp.pdb
+C:\Users\Maristela\source\repos\CLIMobileBankingApp\obj\Debug\CLIMobileBankingApp.exe
+C:\Users\Maristela\source\repos\CLIMobileBankingApp\obj\Debug\CLIMobileBankingApp.pdb
